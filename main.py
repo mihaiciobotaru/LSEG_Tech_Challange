@@ -2,7 +2,6 @@ import os
 import requests
 import datetime
 import sys
-# pip install requests
 
 URL = 'http://127.0.0.1:5000/'
 DATA_SET_PATH = './stock_price_data_files/'
